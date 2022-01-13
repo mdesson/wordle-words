@@ -1,0 +1,31 @@
+There are 3236 words
+
+In position 1, most frequent is: s (14%)
+In position 2, most frequent is: a (14%)
+In position 3, most frequent is: a (11%)
+In position 4, most frequent is: e (13%)
+In position 5, most frequent is: y (16%)
+
+Top ten words (including ending in y):
+1. samey
+2. sooty
+3. seine
+4. soapy
+5. satay
+6. sorry
+7. sonny
+8. saute
+9. saucy
+10. sauce
+
+Top ten words (excluding ending in y):
+1. seine
+2. saute
+3. sauce
+4. souse
+5. sarge
+6. saint
+7. suite
+8. slate
+9. ranee
+10. spree
